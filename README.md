@@ -26,7 +26,7 @@ git clone https://github.com/armbian/build ../armbian
 ```
 
 ## Changelog
-24 Jan 19
+22 Feb 19
 - update to armbian build 4.19.21 for OrangePi Lite
 
 24 Jan 19
